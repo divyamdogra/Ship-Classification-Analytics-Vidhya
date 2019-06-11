@@ -2,7 +2,7 @@
 
 
 This competition is based on image classification on the ship images dataset provided by Analytics Vidya.
-This project is done on Google Colaboratory using FAST.Ai v3.
+This project is done on Google Colaboratory using FAST.AI v3.
 
 There are 5 classes overall.
 'Cargo': 1,  'Military': 2,  'Carrier': 3, 'Cruise': 4,  'Tankers': 5
