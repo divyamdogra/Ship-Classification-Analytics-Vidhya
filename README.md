@@ -14,3 +14,5 @@ Cruise has 832 images
 Tanker has 1217 images
 
 Totally : 6252 images
+
+The accuracy of this project is around 96%.
